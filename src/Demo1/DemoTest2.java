@@ -8,6 +8,9 @@ public class DemoTest2 {
 			String name = "fun";
 			
 			System.out.println("java is fun indeed...");
+
+			String country = "Iraq";
+			System.out.println("Miss home Iraq");
 		}
 
 }
